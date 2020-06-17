@@ -1,7 +1,6 @@
 # Stochastic-simulation-project
 
-An implementation of the paper: J. Huang et al. (2015) "Control of Patient Flow in Emergency Departments, or Multiclass Queues with Deadlines and Feedback". Operations Research 63(4):892-908. https://doi.org/10.1287/opre.2015.1389. This is also a 
-project done for a grad level course in Winter 2020. 
+An implementation of the paper: J. Huang et al. (2015) "Control of Patient Flow in Emergency Departments, or Multiclass Queues with Deadlines and Feedback". Operations Research 63(4):892-908. https://doi.org/10.1287/opre.2015.1389. This implementation is also part of a project done for a grad level course in Winter 2020. 
 
 
 In a hospital, the control of the patient flow can have a significant impact on its operational performance and the quality of care the patients received. 
